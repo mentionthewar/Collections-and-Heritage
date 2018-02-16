@@ -17,12 +17,13 @@ Resources for hands on DH workshop, February 2018
 <li>Discovery API
 <li>David Underdown's scripts
 <li>Richard blog posts
+<li>Programming Historian
 </ul>
 
 <h3>Our collections</h3>
 
 <ul>
-<li> Flickr
-<li> Commons
+  <li> <a href="https://www.flickr.com/photos/nationalarchives/">20,000 images on Flickr</a>
+<li> Wikimedia Commons
 <li> Cabinet Papers?
 </ul>  
