@@ -4,7 +4,7 @@ Resources for hands on DH workshop, February 2018
 <h2>Resources for the day</h2>
 <ul>
 <li> Slides
-<li> Museum Future docs (3 sets)
+<li> Museum Future docs (3 sets) + spreadsheet
 <li> Link to download Mallet
 <li> Worksheets  
 </ul>
