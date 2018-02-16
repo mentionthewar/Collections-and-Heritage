@@ -14,8 +14,8 @@ Resources for hands on DH workshop, February 2018
 <h3>Our work</h3>
 
 <ul>
-<li>Discovery API
-<li>David Underdown's scripts
+<li>Discovery has an API which includes a <a href="http://discovery.nationalarchives.gov.uk/API/sandbox/index#/">sandbox allowing you to experiment</a> with making different calls.
+<li>One of our Digital Archivists, David Underdown, has <a href="https://github.com/DavidUnderdown/DiscoveryAPI">published some simple Python scripts for interacting with the API</a>.
 <li>Richard blog posts
 <li>Programming Historian
 </ul>
