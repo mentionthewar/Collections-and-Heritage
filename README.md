@@ -1,15 +1,17 @@
 # Collections and Heritage
 Resources for hands on DH workshop, February 2018
 
-Resources for the day
+<h1>Resources for the day</h1>
 
-<b>Further resources</b>
+<h1>Further resources</h1>>
 
 Our work
 
-Discovery API
-David Underdown's scripts
-Richard blog posts
+<ul>
+<li>Discovery API
+<li>David Underdown's scripts
+<li>Richard blog posts
+</ul>
 
 Our collections
 
