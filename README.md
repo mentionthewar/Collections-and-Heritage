@@ -15,5 +15,8 @@ Resources for hands on DH workshop, February 2018
 
 <h3>Our collections</h3>
 
-Flickr
-Commons
+<ul>
+<li> Flickr
+<li> Commons
+<li> Cabinet Papers?
+</ul>  
