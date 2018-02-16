@@ -16,7 +16,7 @@ Resources for hands on DH workshop, February 2018
 <ul>
   <li><a href="http://discovery.nationalarchives.gov.uk">Discovery</a> has an API which includes a <a href="http://discovery.nationalarchives.gov.uk/API/sandbox/index#/">sandbox allowing you to experiment</a> with making different calls.
 <li>One of our Digital Archivists, David Underdown, has <a href="https://github.com/DavidUnderdown/DiscoveryAPI">published some simple Python scripts for interacting with the API</a>.
-<li>Richard blog posts
+<li>Our blog is a good source for a wide range of scholarship relating to our collections. In these posts Dr Richard Dunley <a href="http://blog.nationalarchives.gov.uk/blog/catalogue-data-basics/">introduces working with data from Discovery</a> and <a href="http://blog.nationalarchives.gov.uk/blog/catalogue-data-prize-papers-2nd-anglo-dutch-war/">then develops the analysis using 17th century prize papers</a>. I discuss <a href="http://blog.nationalarchives.gov.uk/blog/read-43000-cabinet-papers/">topic modelling Cabinet Papers here</a>.
 <li>Programming Historian
 </ul>
 
