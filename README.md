@@ -6,8 +6,7 @@ Resources for hands on DH workshop, February 2018
  <li> <a href="http://google.fusiontables.com">Access Google Fusion Tables here</a>
  <li> <a href="http://mallet.cs.umass.edu/download.php">Download Mallet here</a>
 <li> #FutureMuseum docs (3 sets) + spreadsheet http://museum-id.com/the-futuremuseum-project-what-will-museums-be-like-in-the-future-essay-collection/
-<li> Worksheets  
-<li> Slides
+<li> Worksheets and slides above
 </ul>
 
 <h2>Further resources</h2>
