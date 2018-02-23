@@ -28,5 +28,6 @@ Resources for hands on DH workshop, February 2018
 </ul>  
 
 <h3>Other resources</h3>
-
-I'm sure it's been mentioned repeatedly but <a href="https://programminghistorian.org/"> The Programming Historian</a> really is an excellent resource.
+<ul>
+<li>I'm sure it's been mentioned repeatedly but <a href="https://programminghistorian.org/"> The Programming Historian</a> really is an excellent resource.
+<li> Miriam Posner has a good introduction <a href="http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/">to interpreting topic model results</a>
