@@ -24,7 +24,6 @@ Resources for hands on DH workshop, February 2018
 <ul>
   <li> <a href="https://www.flickr.com/photos/nationalarchives/">20,000 images on Flickr</a>
 <li> <a href="https://commons.wikimedia.org/wiki/Category:The_National_Archives_(United_Kingdom)">Collections and other images relating to The National Archives in Wikimedia Commons</a>
-<li> Cabinet Papers?
 </ul>  
 
 <h3>Other resources</h3>
