@@ -29,7 +29,7 @@ Resources for hands on DH workshop, February 2018
 
 <h3>Other resources</h3>
 <ul> 
-<li> Matthew Jockers uses <a href="http://www.matthewjockers.net/macroanalysisbook/lda/"> a buffet analogy to describes topic modelling</a>. 
+<li> Matthew Jockers imagines <a href="http://www.matthewjockers.net/macroanalysisbook/lda/">Jane Austen and Herman Melville meeting at a buffet</a> as an analogy to help understand topic modelling</a>. 
 <li> Miriam Posner has a good introduction <a href="http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/">to interpreting topic model results</a>
 <li> The science of reading topic models is the subject of a <a href="http://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.pdf">2009 paper by Chang et al</a>. A presentation of their results <a href="https://www.cs.colorado.edu/~jbg/docs/nips2009-rtl-pres.pdf">is additionally available</a>. 
  <li>I'm sure it's been mentioned repeatedly but <a href="https://programminghistorian.org/"> The Programming Historian</a> really is an excellent resource.
